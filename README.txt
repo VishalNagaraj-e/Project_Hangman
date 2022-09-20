@@ -1,0 +1,1 @@
+Hello! Welcome to our Hangman Project! In order for this to run properly, Welcome to our hangman project! In order for this to run properly, you will have to extract the entire 'HangmanProject' folder as a whole to your 'Downloads'. Have fun boi!
